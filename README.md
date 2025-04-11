@@ -32,6 +32,11 @@
 <a href="https://discord.com/users/788686743427612673"><img  width="400px" src="https://lanyard.cnrad.dev/api/788686743427612673?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=Aldertos+Goat"></a>
 -->
  <br />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Stat's" alt="Typing SVG" /></h1>
+
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aldertos&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+</p>
  
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=ff3235&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
 
